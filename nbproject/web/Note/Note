@@ -1,0 +1,90 @@
+//  Nhân quả không nợ chúng ta thứ gì, cho nên xin đừng oán giận   ////////
+//                                   _
+//                                _oo0oo_
+//                               o8888888o
+//                               88” . “88
+//                               (| -_- |)
+//                               O\  =  /O
+//                            ____/'---'\____
+//                          .'  \\|     |//  '.
+//                         /  \\|||  :  |||//  \
+//                        /  _||||| -:- |||||_  \
+//                        |   | \\\  -  /'| |   |
+//                        | \_|  `\`---'//  |_/ |
+//                        \  .-\__ `-. -'__/-.  /
+//                      ___`. .'  /--.--\  `. . '___
+//                   ."" '<  `.___\_<|>_/___.'  _> \"".
+//                  | | :  `- \`. ;`. _/; .'/  /  .' ; |
+//                  \  \ `-.   \_\_`. _.' _/_/  -' _.' /
+//===================`-.`___`-.__\ \___   /__.-'_.'_.-'===================//
+//                                `=--=-'
+// Đức Phật nơi đây phù hộ code con chạy không Bugs. Nam mô a di đà Phật.
+//
+//                      _.-/`)
+//                     // / / )
+//                  .=// / / / )
+//                 //`/ / / / /
+//                // /    `  /
+//               ||         /
+//              ||         /
+//               \\       /
+//                ))    .'
+//               //     /
+//                     /
+
+
+/*   làm trang product cho các sản phẩm
+    B1: tạo href cho home.jsp--> product?id (so id của sản phẩm -> lấy trong database ra -> load lên trang product)
+    B2: tạo href cho listproduct.jsp
+    --> DONE
+*/
+
+/*
+    RELATED PRODUCT
+    --> DONE
+*/
+
+/*
+    Cart
+    B1: check đăng nhập hay chưa, nếu rồi thì cho vào cart.jsp, không thì chuyển về trang đăng nhập (xử lí bằng filter)
+    --> DONE
+*/
+
+/*
+    Model 
+        Cart: giỏ hàng
+        Order: đơn hàng
+        OrderDetail: danh sách đơn hàng
+*/
+
+/*
+    Khi submit (mua sản phẩm) bị văng 1 đống id
+    --> DONE
+*/
+
+/*
+    Khi vào product tăng số lượng mua thì bên cart số lượng không tăng theo số lượng của product
+    --> DONE
+*/
+
+
+/*
+    Tính tổng thành tiền
+    --> DONE
+*/
+
+
+/*
+    Làm trang profile
+        - Cập nhật password
+*/
+
+    
+
+
+1:06:53 / 3:05:09
+1:16:41 / 3:05:09
+1:45:43 / 3:05:09
+2:11:19 / 3:05:09
+2:32:51 / 3:05:09
+3:05:09 / 3:05:09 --> DONEEEEEEEEEE
